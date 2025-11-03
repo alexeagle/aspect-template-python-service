@@ -1,0 +1,5 @@
+_exclude:
+  - .git
+  - BUILD
+  - MODULE.bazel
+  - copier.yaml
